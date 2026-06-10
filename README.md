@@ -1,7 +1,7 @@
 > [!WARNING]
 > Root is necessary, please grab the module designed for your hyperos version
+> This repository is only for me to have quick access to these modules.
 
-This repository is only for me to have quick access to these modules.
   
 # Customization  
 [HyperUnlocked](https://github.com/ukriu/HyperUnlocked)╺╸unlocks most premium features  
