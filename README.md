@@ -14,6 +14,7 @@
 
 # Integrity fix  
 [PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)╺╸fixes play integrity (hides unlocked bl)
+[NoHello](https://github.com/MhmRdd/NoHello) ╺╸ Hides Zygisk
 
 # Additional  
 [abootloop](https://github.com/nedorazrab0/abootloop)╺╸magisk kill switch to prevent bootlooping  
