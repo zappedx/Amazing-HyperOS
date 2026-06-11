@@ -7,8 +7,9 @@
 [HyperUnlocked](https://github.com/ukriu/HyperUnlocked)╺╸unlocks most premium features  
 [fingerprint cataloge](https://github.com/custombeta/fingerprint-cataloge)╺╸custom fingerprint icons/animations  
 [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)╺╸best customization app and has over 250 features  
+[Monet-Picker](https://github.com/Mods-Center/Monet-Picker)╺╸lets you pick your own monet color
 [HyperOS-Launcher](https://github.com/Mods-Center/HyperOS-Launcher)╺╸custom launcher with more customization  
-[XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper)╺╸amazing dynamic island/notification customization  
+[XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper)╺╸amazing dynamic island/notification customization NOTICE: disable launcher scope in lsposed, otherwise your launcher will repeatedly crash
 [Theme-Manager](https://github.com/Mods-Center/HyperOS-Theme-Manager)╺╸modded CN theme store  
 [App-Vault](https://github.com/Mods-Center/HyperOS-App-Vault)╺╸better app vault  
 
